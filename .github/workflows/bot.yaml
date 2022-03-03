@@ -1,0 +1,33 @@
+name: Send a Tweet
+on:
+  push:
+  schedule:
+    # Runs "at minute 55 past every hour" (see https://crontab.guru)
+    - cron: '*/60 * * * *'
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout requirements and data
+      uses: actions/checkout@v2
+    - name: Setup python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'
+        cache: 'pip'
+    - name: Install tweepy and requests
+      run: pip install -r requirements.txt
+    - name: Run the python twitter manager
+      run: python3 main.py
+      env:
+          TWITTER_CONSUMER_API_KEY: ${{ secrets.TWITTER_CONSUMER_API_KEY }}
+          TWITTER_CONSUMER_API_SECRET: ${{ secrets.TWITTER_CONSUMER_API_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+          DATATYPE: "d"
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v7
+      with:
+        author_name: Bot
+        message: 'Updated data'
+        add: '*'
