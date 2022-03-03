@@ -32,7 +32,7 @@ def week_of_month(dt):
 
 def loadJson() -> dict:
     if not os.path.isfile("lastAct.json"):
-        return False
+        return {}
     f = open("lastAct.json", "r")
     o = json.loads(f.read())
     f.close()
