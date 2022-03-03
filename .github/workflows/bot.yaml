@@ -12,6 +12,8 @@ jobs:
     steps:
     - name: Checkout requirements and data
       uses: actions/checkout@v2
+    - name: Update/create git repo
+      run: '[ -d "dati" ] && git -C dati clone https://github.com/StazioneMeteoCocito/dati.git  || git -C dati pull '
     - name: Setup python
       uses: actions/setup-python@v2
       with:
