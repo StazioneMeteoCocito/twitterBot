@@ -1,6 +1,8 @@
 name: Send a Tweet
 on:
   push:
+    paths:
+      "toggle"
   schedule:
     # Runs "at minute 55 past every hour" (see https://crontab.guru)
     - cron: '*/60 * * * *'
