@@ -6,17 +6,9 @@ import json
 import statistics
 import time
 from enum import Enum
-
+import os
 import pytz
 import tweepy
-
-
-def is_dst(dt=None, timezone="UTC"):
-    if dt is None:
-        dt = datetime.datetime.utcnow()
-    timezone = pytz.timezone(timezone)
-    timezone_aware_date = timezone.localize(dt, is_dst=None)
-    return timezone_aware_date.tzinfo._dst.seconds != 0
 
 
 class DataType:
@@ -84,7 +76,6 @@ class Value:
 
 
 class DataArchive:
-    path = "dati"
 
     @staticmethod
     def report() -> str:
@@ -145,6 +136,32 @@ class DataArchive:
         end = datetime.datetime.now()
         return DataArchive.betweenDatetimes(start, end)
 
+    @staticmethod
+    def latestDatetime() -> str:
+         mY = int(datetime.datetime.now().strftime("%Y"))
+         mM = 12
+         mD = 31
+         tdate = ""
+         for i in range(mY):
+             yPath = "dati/"+str(mY-i)
+             if os.path.isdir(yPath):
+                 for j in range(mM):
+                     mPath = yPath + "/" + str(mM-j).zfill(2)
+                     if os.path.isdir(mPath):
+                         for k in range(mD):
+                             dPath = mPath + "/" + str(mD-k).zfill(2)
+                             if os.path.isdir(dPath):
+                                 tfile = open(dPath+"/temperature.csv","r")
+                                 lines = tfile.readlines()
+                                 for line in lines:
+                                      r = line.split(",")
+                                      if len(r)<2:
+                                          continue
+                                      tdate = r[0]
+                                 if len(tdate) == 0:
+                                     return datetime.datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+                                 else:
+                                     return datetime.datetime.strptime(tdate,"%Y-%m-%d %H:%M:%S").strftime("%d/%m/%Y %H:%M:%S")
 
 class Stats:
     def __init__(self, dataList: list):
@@ -178,13 +195,10 @@ class Stats:
 class TweetGenerator:
 
     @staticmethod
-    def current(lastEditTimestamp: int) -> list[str]:  # git log -1 --format=%ct  as data variable
-        lastEditTimestamp += 60 * 60
-        if is_dst():
-            lastEditTimestamp += 60 * 60
+    def current() -> list[str]:  # git log -1 --format=%ct  as data variable
+        ldt = DataArchive.latestDatetime()
         c = DataArchive.current()
-        d = datetime.datetime.utcfromtimestamp(lastEditTimestamp).strftime('%Y-%m-%d %H:%M:%S')
-        return ["Dati Meteorologici:\nUltimo aggiornamento: " + d + "\n--------------\nTemperatura: " + (
+        return ["Dati Meteorologici:\nUltimo aggiornamento: " + ldt + "\n--------------\nTemperatura: " + (
             "{:.2f}".format(c["T"])) + " °C\n" + "Umidità: " + (
                     "{:.2f}".format(c["H"])) + " %\n" + "Pressione: " + (
                     "{:.2f}".format(c["P"])) + " hPa\n" + "PM10: " + (
@@ -318,9 +332,9 @@ class Tweet:
             self.client.create_tweet(text=self.__truncate(tweet))
         lsave("reports/day.txt", f)
 
-    def current(self, lastEditTimestamp: int = time.time()) -> None:
+    def current(self) -> None:
         f = ""
-        for tweet in TweetGenerator.current(lastEditTimestamp):
+        for tweet in TweetGenerator.current():
             print(tweet)
             f += tweet + "\n"
             self.client.create_tweet(text=self.__truncate(tweet))
