@@ -1,9 +1,9 @@
 Dati Meteorologici:
-Ultimo aggiornamento: 18/03/2022 11:07:31
+Ultimo aggiornamento: 18/03/2022 12:07:45
 --------------
-Temperatura: 15.51 °C
-Umidità: 74.44 %
-Pressione: 1014.52 hPa
-PM10: 247.70 µg/m³
-PM2,5: 481.40 µg/m³
-Fumo e vapori infiammabili: 216.00 µg/m³
+Temperatura: 16.45 °C
+Umidità: 67.46 %
+Pressione: 1014.62 hPa
+PM10: 253.40 µg/m³
+PM2,5: 498.00 µg/m³
+Fumo e vapori infiammabili: 206.00 µg/m³
