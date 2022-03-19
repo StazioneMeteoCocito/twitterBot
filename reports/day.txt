@@ -1,54 +1,54 @@
 (1/6) Dati di oggi
 ---Pressione---
-Media: 1014.09 hPa
-Moda: 1013.60 hPa
-Massimo: 1017.66 hPa (18/03/2022 23:15:16) 
-Minimo: 1012.25 hPa (18/03/2022 03:25:47) hPa
-Deviazione Standard: 1.48 hPa
-Moda: 1014.09 hPa
+Media: 1015.69 hPa
+Moda: 1015.23 hPa
+Massimo: 1018.79 hPa (19/03/2022 06:31:56) 
+Minimo: 1011.03 hPa (19/03/2022 16:44:15) hPa
+Deviazione Standard: 2.71 hPa
+Moda: 1015.69 hPa
 Numero di rilevazioni: 279.00
 (2/6) Dati di oggi
 ---PM10---
-Media: 239.18 µg/m³
-Moda: 238.71 µg/m³
-Massimo: 272.70 µg/m³ (18/03/2022 05:56:22) 
-Minimo: 211.50 µg/m³ (18/03/2022 21:04:48) µg/m³
-Deviazione Standard: 14.56 µg/m³
-Moda: 239.18 µg/m³
+Media: 217.22 µg/m³
+Moda: 216.79 µg/m³
+Massimo: 242.20 µg/m³ (19/03/2022 04:16:27) 
+Minimo: 200.60 µg/m³ (19/03/2022 22:20:33) µg/m³
+Deviazione Standard: 6.46 µg/m³
+Moda: 217.22 µg/m³
 Numero di rilevazioni: 279.00
 (3/6) Dati di oggi
 ---Fumo e vapori infiammabili---
-Media: 172.23 µg/m³
-Moda: 172.23 µg/m³
-Massimo: 298.00 µg/m³ (18/03/2022 00:05:02) 
-Minimo: 104.00 µg/m³ (18/03/2022 21:14:50) µg/m³
-Deviazione Standard: 48.89 µg/m³
-Moda: 172.23 µg/m³
+Media: 106.76 µg/m³
+Moda: 106.76 µg/m³
+Massimo: 232.00 µg/m³ (19/03/2022 09:42:40) 
+Minimo: 27.00 µg/m³ (19/03/2022 04:36:31) µg/m³
+Deviazione Standard: 43.06 µg/m³
+Moda: 106.76 µg/m³
 Numero di rilevazioni: 279.00
 (4/6) Dati di oggi
 ---Temperatura---
-Media: 15.15 °C
-Moda: 14.66 °C
-Massimo: 18.42 °C (18/03/2022 14:53:22) 
-Minimo: 12.68 °C (18/03/2022 06:51:33) °C
-Deviazione Standard: 1.86 °C
-Moda: 15.15 °C
+Media: 13.01 °C
+Moda: 12.51 °C
+Massimo: 17.50 °C (19/03/2022 16:34:13) 
+Minimo: 9.39 °C (19/03/2022 06:57:02) °C
+Deviazione Standard: 2.49 °C
+Moda: 13.01 °C
 Numero di rilevazioni: 279.00
 (5/6) Dati di oggi
 ---PM2,5---
-Media: 476.49 µg/m³
-Moda: 476.06 µg/m³
-Massimo: 517.20 µg/m³ (18/03/2022 05:56:22) 
-Minimo: 432.00 µg/m³ (18/03/2022 06:26:29) µg/m³
-Deviazione Standard: 18.74 µg/m³
-Moda: 476.49 µg/m³
+Media: 440.70 µg/m³
+Moda: 440.25 µg/m³
+Massimo: 486.20 µg/m³ (19/03/2022 18:39:42) 
+Minimo: 399.20 µg/m³ (19/03/2022 22:20:33) µg/m³
+Deviazione Standard: 17.52 µg/m³
+Moda: 440.70 µg/m³
 Numero di rilevazioni: 279.00
 (6/6) Dati di oggi
 ---Umidità---
-Media: 66.49 %
-Moda: 65.98 %
-Massimo: 84.34 % (18/03/2022 05:26:14) 
-Minimo: 45.63 % (18/03/2022 14:13:13) %
-Deviazione Standard: 16.45 %
-Moda: 66.49 %
+Media: 53.47 %
+Moda: 52.98 %
+Massimo: 67.89 % (19/03/2022 07:27:09) 
+Minimo: 39.99 % (19/03/2022 17:09:21) %
+Deviazione Standard: 10.02 %
+Moda: 53.47 %
 Numero di rilevazioni: 279.00
