@@ -1,0 +1,54 @@
+(1/6) Dati di questo mese
+---PM2,5---
+Media: 109.08 µg/m³
+Moda: 108.62 µg/m³
+Massimo: 581.60 µg/m³ (17/03/2022 19:08:55) 
+Minimo: 5.50 µg/m³ (02/03/2022 18:02:07) 
+Deviazione Standard: 160.44 µg/m³
+Moda: 109.08 µg/m³
+Numero di rilevazioni: 5904.00
+(2/6) Dati di questo mese
+---Umidità---
+Media: 58.65 %
+Moda: 58.15 %
+Massimo: 88.06 % (17/03/2022 10:06:51) 
+Minimo: 30.38 % (21/03/2022 13:49:27) 
+Deviazione Standard: 12.09 %
+Moda: 58.65 %
+Numero di rilevazioni: 5904.00
+(3/6) Dati di questo mese
+---Pressione---
+Media: 1008.08 hPa
+Moda: 1007.59 hPa
+Massimo: 1020.67 hPa (21/03/2022 08:53:21) 
+Minimo: 993.91 hPa (04/03/2022 16:22:40) 
+Deviazione Standard: 6.75 hPa
+Moda: 1008.08 hPa
+Numero di rilevazioni: 5904.00
+(4/6) Dati di questo mese
+---PM10---
+Media: 58.70 µg/m³
+Moda: 58.26 µg/m³
+Massimo: 298.80 µg/m³ (17/03/2022 19:08:55) 
+Minimo: 4.90 µg/m³ (02/03/2022 18:02:07) 
+Deviazione Standard: 79.39 µg/m³
+Moda: 58.70 µg/m³
+Numero di rilevazioni: 5904.00
+(5/6) Dati di questo mese
+---Fumo e vapori infiammabili---
+Media: 105.09 µg/m³
+Moda: 105.09 µg/m³
+Massimo: 298.00 µg/m³ (18/03/2022 00:05:02) 
+Minimo: 0.00 µg/m³ (13/03/2022 11:30:27) 
+Deviazione Standard: 41.81 µg/m³
+Moda: 105.09 µg/m³
+Numero di rilevazioni: 5904.00
+(6/6) Dati di questo mese
+---Temperatura---
+Media: 10.63 °C
+Moda: 10.13 °C
+Massimo: 18.42 °C (18/03/2022 14:53:22) 
+Minimo: 2.41 °C (07/03/2022 07:26:56) 
+Deviazione Standard: 3.57 °C
+Moda: 10.63 °C
+Numero di rilevazioni: 5904.00
