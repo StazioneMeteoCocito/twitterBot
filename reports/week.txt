@@ -1,54 +1,54 @@
 (1/6) Dati di questa settimana
 ---Umidità---
-Media: 30.20 %
-Moda: 29.71 %
-Massimo: 44.77 % (09/04/2022 10:20:38) 
-Minimo: 19.78 % (09/04/2022 19:17:40) 
-Deviazione Standard: 6.33 %
-Moda: 30.20 %
-Numero di rilevazioni: 231.00
+Media: 50.22 %
+Moda: 49.74 %
+Massimo: 72.01 % (16/04/2022 07:57:10) 
+Minimo: 27.32 % (11/04/2022 13:38:34) 
+Deviazione Standard: 12.46 %
+Moda: 50.22 %
+Numero di rilevazioni: 1732.00
 (2/6) Dati di questa settimana
 ---Fumo e vapori infiammabili---
-Media: 360.06 µg/m³
-Moda: 360.06 µg/m³
-Massimo: 466.00 µg/m³ (10/04/2022 11:47:52) 
-Minimo: 42.00 µg/m³ (09/04/2022 17:27:16) 
-Deviazione Standard: 32.12 µg/m³
-Moda: 360.06 µg/m³
-Numero di rilevazioni: 230.00
+Media: 231.10 µg/m³
+Moda: 231.10 µg/m³
+Massimo: 442.00 µg/m³ (12/04/2022 07:54:17) 
+Minimo: 112.00 µg/m³ (17/04/2022 21:00:31) 
+Deviazione Standard: 48.33 µg/m³
+Moda: 231.10 µg/m³
+Numero di rilevazioni: 1729.00
 (3/6) Dati di questa settimana
 ---PM10---
-Media: 7.88 µg/m³
-Moda: 7.35 µg/m³
-Massimo: 146.10 µg/m³ (09/04/2022 14:36:37) 
-Minimo: 0.20 µg/m³ (09/04/2022 13:11:18) 
-Deviazione Standard: 25.12 µg/m³
-Moda: 7.88 µg/m³
-Numero di rilevazioni: 230.00
+Media: 9.08 µg/m³
+Moda: 8.63 µg/m³
+Massimo: 122.50 µg/m³ (11/04/2022 08:22:24) 
+Minimo: 0.60 µg/m³ (12/04/2022 17:21:24) 
+Deviazione Standard: 14.02 µg/m³
+Moda: 9.08 µg/m³
+Numero di rilevazioni: 1729.00
 (4/6) Dati di questa settimana
 ---PM2,5---
-Media: 13.56 µg/m³
-Moda: 13.10 µg/m³
-Massimo: 283.10 µg/m³ (09/04/2022 14:36:37) 
-Minimo: 0.30 µg/m³ (09/04/2022 13:11:18) 
-Deviazione Standard: 38.86 µg/m³
-Moda: 13.56 µg/m³
-Numero di rilevazioni: 230.00
+Media: 12.14 µg/m³
+Moda: 11.70 µg/m³
+Massimo: 172.30 µg/m³ (11/04/2022 08:22:24) 
+Minimo: 0.70 µg/m³ (12/04/2022 17:51:31) 
+Deviazione Standard: 16.88 µg/m³
+Moda: 12.14 µg/m³
+Numero di rilevazioni: 1729.00
 (5/6) Dati di questa settimana
 ---Pressione---
-Media: 992.57 hPa
-Moda: 992.11 hPa
-Massimo: 1007.10 hPa (10/04/2022 11:47:51) 
-Minimo: 0.00 hPa (09/04/2022 20:54:08) 
-Deviazione Standard: 66.01 hPa
-Moda: 992.57 hPa
-Numero di rilevazioni: 231.00
+Media: 1000.62 hPa
+Moda: 1000.15 hPa
+Massimo: 1010.67 hPa (11/04/2022 11:28:05) 
+Minimo: 0.00 hPa (11/04/2022 14:01:12) 
+Deviazione Standard: 34.13 hPa
+Moda: 1000.62 hPa
+Numero di rilevazioni: 1732.00
 (6/6) Dati di questa settimana
 ---Temperatura---
-Media: 25.43 °C
-Moda: 24.90 °C
-Massimo: 28.50 °C (09/04/2022 16:32:03) 
-Minimo: 19.62 °C (09/04/2022 20:54:08) 
-Deviazione Standard: 1.66 °C
-Moda: 25.43 °C
-Numero di rilevazioni: 231.00
+Media: 18.41 °C
+Moda: 17.92 °C
+Massimo: 27.39 °C (15/04/2022 17:23:53) 
+Minimo: 9.43 °C (12/04/2022 08:24:23) 
+Deviazione Standard: 4.48 °C
+Moda: 18.41 °C
+Numero di rilevazioni: 1732.00
