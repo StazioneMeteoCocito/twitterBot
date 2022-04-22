@@ -1,54 +1,54 @@
 (1/6) Dati di oggi
 ---Umidità---
-Media: 78.47 %
-Moda: 77.96 %
-Massimo: 91.72 % (21/04/2022 08:44:18) 
-Minimo: 63.20 % (21/04/2022 16:05:58) %
-Deviazione Standard: 7.99 %
-Moda: 78.47 %
+Media: 81.42 %
+Moda: 80.90 %
+Massimo: 104.02 % (22/04/2022 03:38:32) 
+Minimo: 57.31 % (22/04/2022 17:41:39) %
+Deviazione Standard: 16.23 %
+Moda: 81.42 %
 Numero di rilevazioni: 279.00
 (2/6) Dati di oggi
 ---Fumo e vapori infiammabili---
-Media: 207.05 µg/m³
-Moda: 207.05 µg/m³
-Massimo: 230.00 µg/m³ (21/04/2022 09:44:32) 
-Minimo: 183.00 µg/m³ (21/04/2022 18:51:36) µg/m³
-Deviazione Standard: 13.76 µg/m³
-Moda: 207.05 µg/m³
+Media: 201.36 µg/m³
+Moda: 201.36 µg/m³
+Massimo: 221.00 µg/m³ (22/04/2022 04:53:49) 
+Minimo: 169.00 µg/m³ (22/04/2022 18:46:55) µg/m³
+Deviazione Standard: 9.40 µg/m³
+Moda: 201.36 µg/m³
 Numero di rilevazioni: 279.00
 (3/6) Dati di oggi
 ---PM10---
-Media: 16.43 µg/m³
-Moda: 15.97 µg/m³
-Massimo: 29.30 µg/m³ (21/04/2022 02:07:51) 
-Minimo: 4.70 µg/m³ (21/04/2022 16:06:00) µg/m³
-Deviazione Standard: 8.25 µg/m³
-Moda: 16.43 µg/m³
+Media: 9.26 µg/m³
+Moda: 8.81 µg/m³
+Massimo: 21.70 µg/m³ (22/04/2022 03:33:32) 
+Minimo: 0.80 µg/m³ (22/04/2022 14:41:01) µg/m³
+Deviazione Standard: 6.89 µg/m³
+Moda: 9.26 µg/m³
 Numero di rilevazioni: 279.00
 (4/6) Dati di oggi
 ---PM2,5---
-Media: 20.93 µg/m³
-Moda: 20.46 µg/m³
-Massimo: 40.00 µg/m³ (21/04/2022 02:12:52) 
-Minimo: 5.20 µg/m³ (21/04/2022 16:06:00) µg/m³
-Deviazione Standard: 11.36 µg/m³
-Moda: 20.93 µg/m³
+Media: 11.58 µg/m³
+Moda: 11.14 µg/m³
+Massimo: 30.20 µg/m³ (22/04/2022 03:43:34) 
+Minimo: 0.80 µg/m³ (22/04/2022 14:41:01) µg/m³
+Deviazione Standard: 9.30 µg/m³
+Moda: 11.58 µg/m³
 Numero di rilevazioni: 279.00
 (5/6) Dati di oggi
 ---Pressione---
-Media: 992.38 hPa
-Moda: 991.85 hPa
-Massimo: 994.98 hPa (21/04/2022 00:02:22) 
-Minimo: 989.59 hPa (21/04/2022 23:17:34) hPa
-Deviazione Standard: 1.41 hPa
-Moda: 992.38 hPa
+Media: 984.92 hPa
+Moda: 984.37 hPa
+Massimo: 989.29 hPa (22/04/2022 00:02:44) 
+Minimo: 982.89 hPa (22/04/2022 16:41:26) hPa
+Deviazione Standard: 1.61 hPa
+Moda: 984.92 hPa
 Numero di rilevazioni: 279.00
 (6/6) Dati di oggi
 ---Temperatura---
-Media: 14.43 °C
-Moda: 13.87 °C
-Massimo: 15.53 °C (21/04/2022 14:10:32) 
-Minimo: 13.41 °C (21/04/2022 23:02:31) °C
-Deviazione Standard: 0.54 °C
-Moda: 14.43 °C
+Media: 15.87 °C
+Moda: 15.33 °C
+Massimo: 21.61 °C (22/04/2022 18:11:46) 
+Minimo: 11.36 °C (22/04/2022 06:34:10) °C
+Deviazione Standard: 3.74 °C
+Moda: 15.87 °C
 Numero di rilevazioni: 279.00
