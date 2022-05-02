@@ -1,54 +1,54 @@
 (1/6) Dati di oggi
 ---Pressione---
-Media: 1006.37 hPa
-Moda: 1005.90 hPa
-Massimo: 1009.11 hPa (29/04/2022 07:52:08) 
-Minimo: 1002.83 hPa (29/04/2022 18:49:34) hPa
-Deviazione Standard: 2.19 hPa
-Moda: 1006.37 hPa
+Media: 996.52 hPa
+Moda: 996.06 hPa
+Massimo: 998.38 hPa (02/05/2022 01:01:54) 
+Minimo: 994.04 hPa (02/05/2022 18:20:46) hPa
+Deviazione Standard: 1.43 hPa
+Moda: 996.52 hPa
 Numero di rilevazioni: 279.00
 (2/6) Dati di oggi
 ---Temperatura---
-Media: 18.78 °C
-Moda: 18.33 °C
-Massimo: 24.69 °C (29/04/2022 17:09:12) 
-Minimo: 12.87 °C (29/04/2022 07:01:56) °C
-Deviazione Standard: 4.03 °C
-Moda: 18.78 °C
+Media: 19.88 °C
+Moda: 19.42 °C
+Massimo: 25.55 °C (02/05/2022 17:35:35) 
+Minimo: 14.75 °C (02/05/2022 07:13:16) °C
+Deviazione Standard: 3.54 °C
+Moda: 19.88 °C
 Numero di rilevazioni: 279.00
 (3/6) Dati di oggi
 ---Umidità---
-Media: 56.84 %
-Moda: 56.35 %
-Massimo: 74.86 % (29/04/2022 07:52:08) 
-Minimo: 39.12 % (29/04/2022 17:44:19) %
-Deviazione Standard: 13.36 %
-Moda: 56.84 %
+Media: 57.84 %
+Moda: 57.34 %
+Massimo: 76.41 % (02/05/2022 07:03:14) 
+Minimo: 39.52 % (02/05/2022 16:55:26) %
+Deviazione Standard: 11.89 %
+Moda: 57.84 %
 Numero di rilevazioni: 279.00
 (4/6) Dati di oggi
 ---PM2,5---
-Media: 8.12 µg/m³
-Moda: 7.67 µg/m³
-Massimo: 39.10 µg/m³ (29/04/2022 11:58:03) 
-Minimo: 4.00 µg/m³ (29/04/2022 01:00:37) µg/m³
-Deviazione Standard: 3.83 µg/m³
-Moda: 8.12 µg/m³
+Media: 6.75 µg/m³
+Moda: 6.33 µg/m³
+Massimo: 14.70 µg/m³ (02/05/2022 12:04:22) 
+Minimo: 3.60 µg/m³ (02/05/2022 19:26:01) µg/m³
+Deviazione Standard: 2.73 µg/m³
+Moda: 6.75 µg/m³
 Numero di rilevazioni: 279.00
 (5/6) Dati di oggi
 ---PM10---
-Media: 6.54 µg/m³
-Moda: 6.11 µg/m³
-Massimo: 20.70 µg/m³ (29/04/2022 11:58:03) 
-Minimo: 3.60 µg/m³ (29/04/2022 01:00:37) µg/m³
-Deviazione Standard: 2.32 µg/m³
-Moda: 6.54 µg/m³
+Media: 5.90 µg/m³
+Moda: 5.42 µg/m³
+Massimo: 12.10 µg/m³ (02/05/2022 09:58:54) 
+Minimo: 3.30 µg/m³ (02/05/2022 19:26:01) µg/m³
+Deviazione Standard: 2.24 µg/m³
+Moda: 5.90 µg/m³
 Numero di rilevazioni: 279.00
 (6/6) Dati di oggi
 ---Fumo e vapori infiammabili---
-Media: 154.33 µg/m³
-Moda: 154.33 µg/m³
-Massimo: 206.00 µg/m³ (29/04/2022 09:52:36) 
-Minimo: 92.00 µg/m³ (29/04/2022 19:04:39) µg/m³
-Deviazione Standard: 36.39 µg/m³
-Moda: 154.33 µg/m³
+Media: 155.78 µg/m³
+Moda: 155.78 µg/m³
+Massimo: 197.00 µg/m³ (02/05/2022 09:13:44) 
+Minimo: 99.00 µg/m³ (02/05/2022 16:55:27) µg/m³
+Deviazione Standard: 31.38 µg/m³
+Moda: 155.78 µg/m³
 Numero di rilevazioni: 279.00
