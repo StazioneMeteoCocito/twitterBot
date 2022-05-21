@@ -1,12 +1,12 @@
 System report
-Sat 21 May 2022 01:10:01 AM CEST
+Sun 22 May 2022 01:10:01 AM CEST
 CPU Temperature: 42.93 °C
-Memory Usage: 166/922MB (18.00%)
-Disk Usage: 8/14GB (64%)
-CPU Load: 56.00 %
-72M	storedData
+Memory Usage: 167/922MB (18.11%)
+Disk Usage: 8/14GB (65%)
+CPU Load: 44.00 %
+144M	storedData
 RadioBullet: 1 windows (created Wed May 18 00:15:55 2022)
 StazioneMeteo: 1 windows (created Wed May 18 00:15:54 2022)
- 01:10:02 up 3 days, 53 min,  4 users,  load average: 0.56, 0.62, 0.63
-pi         544  0.0  3.0  48948 28656 pts/1    S+   May18   0:13 python3 /home/pi/Desktop/station/main.py
+ 01:10:01 up 4 days, 53 min,  4 users,  load average: 0.48, 0.59, 0.71
+pi         544  0.0  3.0  48948 28656 pts/1    S+   May18   0:18 python3 /home/pi/Desktop/station/main.py
 
