@@ -1,54 +1,54 @@
 (1/6) Dati di oggi
 ---Temperatura---
-Media: 23.82 °C
-Moda: 23.37 °C
-Massimo: 27.16 °C (25/05/2022 14:58:17) 
-Minimo: 20.43 °C (25/05/2022 00:29:59) °C
-Deviazione Standard: 2.16 °C
-Moda: 23.82 °C
-Numero di rilevazioni: 278.00
+Media: 25.31 °C
+Moda: 24.76 °C
+Massimo: 30.12 °C (26/05/2022 18:14:25) 
+Minimo: 20.33 °C (26/05/2022 05:56:40) °C
+Deviazione Standard: 3.59 °C
+Moda: 25.31 °C
+Numero di rilevazioni: 279.00
 (2/6) Dati di oggi
 ---Pressione---
-Media: 995.19 hPa
-Moda: 994.68 hPa
-Massimo: 1000.38 hPa (25/05/2022 23:15:10) 
-Minimo: 990.95 hPa (25/05/2022 02:20:27) hPa
-Deviazione Standard: 2.55 hPa
-Moda: 995.19 hPa
-Numero di rilevazioni: 278.00
+Media: 1002.13 hPa
+Moda: 1001.63 hPa
+Massimo: 1003.72 hPa (26/05/2022 12:38:09) 
+Minimo: 1000.56 hPa (26/05/2022 00:15:23) hPa
+Deviazione Standard: 0.85 hPa
+Moda: 1002.13 hPa
+Numero di rilevazioni: 279.00
 (3/6) Dati di oggi
 ---Umidità---
-Media: 96.69 %
-Moda: 96.20 %
-Massimo: 115.17 % (25/05/2022 01:20:11) 
-Minimo: 72.82 % (25/05/2022 15:43:27) %
-Deviazione Standard: 14.26 %
-Moda: 96.69 %
-Numero di rilevazioni: 278.00
+Media: 79.03 %
+Moda: 78.50 %
+Massimo: 97.51 % (26/05/2022 04:26:19) 
+Minimo: 60.64 % (26/05/2022 18:59:35) %
+Deviazione Standard: 13.57 %
+Moda: 79.03 %
+Numero di rilevazioni: 279.00
 (4/6) Dati di oggi
 ---PM10---
-Media: 10.03 µg/m³
-Moda: 9.61 µg/m³
-Massimo: 20.90 µg/m³ (25/05/2022 10:12:14) 
-Minimo: 4.10 µg/m³ (25/05/2022 15:48:30) µg/m³
-Deviazione Standard: 3.80 µg/m³
-Moda: 10.03 µg/m³
-Numero di rilevazioni: 278.00
+Media: 8.62 µg/m³
+Moda: 8.19 µg/m³
+Massimo: 11.00 µg/m³ (26/05/2022 16:29:02) 
+Minimo: 5.90 µg/m³ (26/05/2022 12:28:08) µg/m³
+Deviazione Standard: 0.99 µg/m³
+Moda: 8.62 µg/m³
+Numero di rilevazioni: 279.00
 (5/6) Dati di oggi
 ---Fumo e vapori infiammabili---
-Media: 292.43 µg/m³
-Moda: 292.43 µg/m³
-Massimo: 317.00 µg/m³ (25/05/2022 22:50:05) 
-Minimo: 259.00 µg/m³ (25/05/2022 16:43:42) µg/m³
-Deviazione Standard: 13.52 µg/m³
-Moda: 292.43 µg/m³
-Numero di rilevazioni: 278.00
+Media: 282.67 µg/m³
+Moda: 282.67 µg/m³
+Massimo: 320.00 µg/m³ (26/05/2022 01:20:39) 
+Minimo: 226.00 µg/m³ (26/05/2022 19:29:43) µg/m³
+Deviazione Standard: 35.60 µg/m³
+Moda: 282.67 µg/m³
+Numero di rilevazioni: 279.00
 (6/6) Dati di oggi
 ---PM2,5---
-Media: 11.59 µg/m³
-Moda: 11.19 µg/m³
-Massimo: 24.10 µg/m³ (25/05/2022 10:02:12) 
-Minimo: 4.50 µg/m³ (25/05/2022 15:48:30) µg/m³
-Deviazione Standard: 4.61 µg/m³
-Moda: 11.59 µg/m³
-Numero di rilevazioni: 278.00
+Media: 9.89 µg/m³
+Moda: 9.44 µg/m³
+Massimo: 13.80 µg/m³ (26/05/2022 04:31:22) 
+Minimo: 6.50 µg/m³ (26/05/2022 12:28:08) µg/m³
+Deviazione Standard: 1.26 µg/m³
+Moda: 9.89 µg/m³
+Numero di rilevazioni: 279.00
