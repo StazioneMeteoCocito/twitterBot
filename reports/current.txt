@@ -1,9 +1,9 @@
 Dati Meteorologici:
-Ultimo aggiornamento: 04/06/2022 14:17:35
+Ultimo aggiornamento: 04/06/2022 15:17:48
 --------------
-Temperatura: 30.05 °C
-Umidità: 64.65 %
-Pressione: 1000.88 hPa
-PM10: 11.30 µg/m³
-PM2,5: 13.50 µg/m³
-Fumo e vapori infiammabili: 227.00 µg/m³
+Temperatura: 30.62 °C
+Umidità: 63.20 %
+Pressione: 1000.44 hPa
+PM10: 10.70 µg/m³
+PM2,5: 11.90 µg/m³
+Fumo e vapori infiammabili: 231.00 µg/m³
