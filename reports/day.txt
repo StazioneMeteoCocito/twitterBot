@@ -1,54 +1,54 @@
 (1/6) Dati di oggi
----Temperatura---
-Media: 30.14 °C
-Moda: 29.68 °C
-Massimo: 33.62 °C (15/06/2022 18:43:47) 
-Minimo: 26.24 °C (15/06/2022 06:11:21) °C
-Deviazione Standard: 2.37 °C
-Moda: 30.14 °C
-Numero di rilevazioni: 273.00
+---Umidità---
+Media: 63.90 %
+Moda: 63.44 %
+Massimo: 83.23 % (16/06/2022 07:21:39) 
+Minimo: 42.65 % (16/06/2022 18:29:09) %
+Deviazione Standard: 13.41 %
+Moda: 63.90 %
+Numero di rilevazioni: 278.00
 (2/6) Dati di oggi
 ---PM10---
-Media: 9.93 µg/m³
-Moda: 9.48 µg/m³
-Massimo: 14.00 µg/m³ (15/06/2022 17:23:53) 
-Minimo: 5.30 µg/m³ (15/06/2022 14:08:10) µg/m³
-Deviazione Standard: 2.29 µg/m³
-Moda: 9.93 µg/m³
-Numero di rilevazioni: 273.00
+Media: 7.94 µg/m³
+Moda: 7.52 µg/m³
+Massimo: 15.20 µg/m³ (16/06/2022 08:31:56) 
+Minimo: 3.10 µg/m³ (16/06/2022 22:35:05) µg/m³
+Deviazione Standard: 3.43 µg/m³
+Moda: 7.94 µg/m³
+Numero di rilevazioni: 279.00
 (3/6) Dati di oggi
----Umidità---
-Media: 66.99 %
-Moda: 66.50 %
-Massimo: 81.23 % (15/06/2022 07:26:38) 
-Minimo: 55.82 % (15/06/2022 18:43:47) %
-Deviazione Standard: 7.26 %
-Moda: 66.99 %
-Numero di rilevazioni: 273.00
+---Fumo e vapori infiammabili---
+Media: 253.88 µg/m³
+Moda: 253.88 µg/m³
+Massimo: 282.00 µg/m³ (16/06/2022 08:57:01) 
+Minimo: 216.00 µg/m³ (16/06/2022 17:28:56) µg/m³
+Deviazione Standard: 17.58 µg/m³
+Moda: 253.88 µg/m³
+Numero di rilevazioni: 279.00
 (4/6) Dati di oggi
 ---Pressione---
-Media: 1000.58 hPa
-Moda: 1000.00 hPa
-Massimo: 1002.02 hPa (15/06/2022 09:37:07) 
-Minimo: 998.40 hPa (15/06/2022 20:04:05) hPa
-Deviazione Standard: 0.99 hPa
-Moda: 1000.58 hPa
-Numero di rilevazioni: 273.00
+Media: 999.39 hPa
+Moda: 998.99 hPa
+Massimo: 1002.35 hPa (16/06/2022 00:45:09) 
+Minimo: 997.09 hPa (16/06/2022 17:59:02) hPa
+Deviazione Standard: 1.48 hPa
+Moda: 999.39 hPa
+Numero di rilevazioni: 278.00
 (5/6) Dati di oggi
----Fumo e vapori infiammabili---
-Media: 233.47 µg/m³
-Moda: 233.47 µg/m³
-Massimo: 265.00 µg/m³ (15/06/2022 07:41:42) 
-Minimo: 187.00 µg/m³ (15/06/2022 14:03:08) µg/m³
-Deviazione Standard: 21.96 µg/m³
-Moda: 233.47 µg/m³
-Numero di rilevazioni: 273.00
+---Temperatura---
+Media: 30.95 °C
+Moda: 30.45 °C
+Massimo: 36.88 °C (16/06/2022 17:08:51) 
+Minimo: 26.11 °C (16/06/2022 05:56:20) °C
+Deviazione Standard: 3.73 °C
+Moda: 30.95 °C
+Numero di rilevazioni: 278.00
 (6/6) Dati di oggi
 ---PM2,5---
-Media: 10.93 µg/m³
-Moda: 10.49 µg/m³
-Massimo: 16.00 µg/m³ (15/06/2022 10:32:21) 
-Minimo: 5.80 µg/m³ (15/06/2022 14:08:10) µg/m³
-Deviazione Standard: 2.51 µg/m³
-Moda: 10.93 µg/m³
-Numero di rilevazioni: 273.00
+Media: 8.99 µg/m³
+Moda: 8.53 µg/m³
+Massimo: 17.00 µg/m³ (16/06/2022 09:17:06) 
+Minimo: 3.40 µg/m³ (16/06/2022 22:35:05) µg/m³
+Deviazione Standard: 3.81 µg/m³
+Moda: 8.99 µg/m³
+Numero di rilevazioni: 279.00
