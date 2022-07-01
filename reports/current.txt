@@ -1,9 +1,9 @@
 Dati Meteorologici:
-Ultimo aggiornamento: 01/07/2022 20:19:08
+Ultimo aggiornamento: 01/07/2022 21:09:19
 --------------
-Temperatura: 32.07 °C
-Umidità: 64.00 %
-Pressione: 995.84 hPa
-PM10: 3.90 µg/m³
-PM2,5: 4.40 µg/m³
-Fumo e vapori infiammabili: 224.00 µg/m³
+Temperatura: 30.98 °C
+Umidità: 66.74 %
+Pressione: 996.22 hPa
+PM10: 4.20 µg/m³
+PM2,5: 4.50 µg/m³
+Fumo e vapori infiammabili: 234.00 µg/m³
