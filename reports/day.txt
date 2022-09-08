@@ -1,54 +1,54 @@
 (1/6) Dati di oggi
 ---Temperatura---
-Media: 28.25 °C
-Moda: 27.71 °C
-Massimo: 31.81 °C (07/09/2022 17:02:37) 
-Minimo: 25.40 °C (07/09/2022 06:29:39) °C
-Deviazione Standard: 2.04 °C
-Moda: 28.25 °C
-Numero di rilevazioni: 280.00
+Media: 27.34 °C
+Moda: 26.84 °C
+Massimo: 31.77 °C (08/09/2022 17:07:37) 
+Minimo: 24.12 °C (08/09/2022 07:14:43) °C
+Deviazione Standard: 2.36 °C
+Moda: 27.34 °C
+Numero di rilevazioni: 279.00
 (2/6) Dati di oggi
 ---PM10---
-Media: 6.12 µg/m³
-Moda: 5.64 µg/m³
-Massimo: 113.40 µg/m³ (07/09/2022 00:07:56) 
-Minimo: 2.30 µg/m³ (07/09/2022 18:17:59) µg/m³
-Deviazione Standard: 8.69 µg/m³
-Moda: 6.12 µg/m³
-Numero di rilevazioni: 279.00
+Media: 8.58 µg/m³
+Moda: 8.12 µg/m³
+Massimo: 109.00 µg/m³ (08/09/2022 00:07:48) 
+Minimo: 1.20 µg/m³ (08/09/2022 17:07:39) µg/m³
+Deviazione Standard: 9.60 µg/m³
+Moda: 8.58 µg/m³
+Numero di rilevazioni: 278.00
 (3/6) Dati di oggi
 ---Pressione---
-Media: 998.02 hPa
-Moda: 997.45 hPa
-Massimo: 1000.28 hPa (07/09/2022 08:55:19) 
-Minimo: 994.92 hPa (07/09/2022 23:24:21) hPa
-Deviazione Standard: 1.66 hPa
-Moda: 998.02 hPa
-Numero di rilevazioni: 280.00
+Media: 993.39 hPa
+Moda: 992.94 hPa
+Massimo: 994.96 hPa (08/09/2022 00:07:47) 
+Minimo: 991.97 hPa (08/09/2022 17:47:48) hPa
+Deviazione Standard: 0.77 hPa
+Moda: 993.39 hPa
+Numero di rilevazioni: 279.00
 (4/6) Dati di oggi
 ---Fumo e vapori infiammabili---
-Media: 229.99 µg/m³
-Moda: 229.99 µg/m³
-Massimo: 256.00 µg/m³ (07/09/2022 08:50:19) 
-Minimo: 197.00 µg/m³ (07/09/2022 18:17:59) µg/m³
-Deviazione Standard: 16.94 µg/m³
-Moda: 229.99 µg/m³
-Numero di rilevazioni: 279.00
+Media: 230.68 µg/m³
+Moda: 230.68 µg/m³
+Massimo: 261.00 µg/m³ (08/09/2022 08:35:06) 
+Minimo: 195.00 µg/m³ (08/09/2022 18:02:54) µg/m³
+Deviazione Standard: 20.05 µg/m³
+Moda: 230.68 µg/m³
+Numero di rilevazioni: 278.00
 (5/6) Dati di oggi
 ---Umidità---
-Media: 77.71 %
-Moda: 77.21 %
-Massimo: 90.10 % (07/09/2022 06:44:43) 
-Minimo: 63.48 % (07/09/2022 17:02:37) %
-Deviazione Standard: 7.44 %
-Moda: 77.71 %
-Numero di rilevazioni: 280.00
+Media: 80.71 %
+Moda: 80.21 %
+Massimo: 97.59 % (08/09/2022 05:59:23) 
+Minimo: 56.55 % (08/09/2022 16:57:35) %
+Deviazione Standard: 12.54 %
+Moda: 80.71 %
+Numero di rilevazioni: 279.00
 (6/6) Dati di oggi
 ---PM2,5---
-Media: 7.97 µg/m³
-Moda: 7.54 µg/m³
-Massimo: 159.50 µg/m³ (07/09/2022 00:07:56) 
-Minimo: 2.80 µg/m³ (07/09/2022 17:12:41) µg/m³
-Deviazione Standard: 11.15 µg/m³
-Moda: 7.97 µg/m³
-Numero di rilevazioni: 279.00
+Media: 10.79 µg/m³
+Moda: 10.32 µg/m³
+Massimo: 152.80 µg/m³ (08/09/2022 00:07:48) 
+Minimo: 1.70 µg/m³ (08/09/2022 18:02:54) µg/m³
+Deviazione Standard: 12.02 µg/m³
+Moda: 10.79 µg/m³
+Numero di rilevazioni: 278.00
