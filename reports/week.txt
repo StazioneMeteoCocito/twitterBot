@@ -1,54 +1,54 @@
 (1/6) Dati di questa settimana
 ---Temperatura---
-Media: 26.87 °C
-Moda: 26.36 °C
-Massimo: 32.80 °C (06/09/2022 17:02:34) 
-Minimo: 19.03 °C (10/09/2022 08:10:19) 
-Deviazione Standard: 3.21 °C
-Moda: 26.87 °C
+Media: 25.16 °C
+Moda: 24.67 °C
+Massimo: 32.82 °C (16/09/2022 16:17:43) 
+Minimo: 14.15 °C (18/09/2022 08:00:14) 
+Deviazione Standard: 3.84 °C
+Moda: 25.16 °C
 Numero di rilevazioni: 2001.00
 (2/6) Dati di questa settimana
 ---PM10---
-Media: 14.37 µg/m³
-Moda: 13.91 µg/m³
-Massimo: 128.40 µg/m³ (10/09/2022 00:08:07) 
-Minimo: 1.20 µg/m³ (08/09/2022 17:07:39) 
-Deviazione Standard: 15.95 µg/m³
-Moda: 14.37 µg/m³
+Media: 81.16 µg/m³
+Moda: 80.71 µg/m³
+Massimo: 166.30 µg/m³ (15/09/2022 00:08:00) 
+Minimo: 51.30 µg/m³ (12/09/2022 01:08:17) 
+Deviazione Standard: 11.50 µg/m³
+Moda: 81.16 µg/m³
 Numero di rilevazioni: 1994.00
 (3/6) Dati di questa settimana
 ---Pressione---
-Media: 997.67 hPa
-Moda: 997.17 hPa
-Massimo: 1006.27 hPa (05/09/2022 10:00:38) 
-Minimo: 991.73 hPa (09/09/2022 17:57:44) 
-Deviazione Standard: 3.82 hPa
-Moda: 997.67 hPa
+Media: 992.78 hPa
+Moda: 992.29 hPa
+Massimo: 999.49 hPa (12/09/2022 09:05:27) 
+Minimo: 983.39 hPa (16/09/2022 18:18:16) 
+Deviazione Standard: 4.65 hPa
+Moda: 992.78 hPa
 Numero di rilevazioni: 2001.00
 (4/6) Dati di questa settimana
 ---Fumo e vapori infiammabili---
-Media: 206.23 µg/m³
-Moda: 206.23 µg/m³
-Massimo: 265.00 µg/m³ (09/09/2022 08:20:07) 
-Minimo: 120.00 µg/m³ (11/09/2022 18:12:59) 
-Deviazione Standard: 36.19 µg/m³
-Moda: 206.23 µg/m³
+Media: 176.02 µg/m³
+Moda: 176.02 µg/m³
+Massimo: 246.00 µg/m³ (16/09/2022 08:05:29) 
+Minimo: 103.00 µg/m³ (17/09/2022 18:38:04) 
+Deviazione Standard: 40.45 µg/m³
+Moda: 176.02 µg/m³
 Numero di rilevazioni: 1994.00
 (5/6) Dati di questa settimana
 ---Umidità---
-Media: 71.46 %
-Moda: 70.97 %
-Massimo: 98.38 % (09/09/2022 06:24:34) 
-Minimo: 36.59 % (11/09/2022 18:12:58) 
-Deviazione Standard: 15.14 %
-Moda: 71.46 %
+Media: 66.64 %
+Moda: 66.15 %
+Massimo: 101.25 % (15/09/2022 07:55:08) 
+Minimo: 22.33 % (17/09/2022 13:11:34) 
+Deviazione Standard: 19.30 %
+Moda: 66.64 %
 Numero di rilevazioni: 2001.00
 (6/6) Dati di questa settimana
 ---PM2,5---
-Media: 16.26 µg/m³
-Moda: 15.81 µg/m³
-Massimo: 188.50 µg/m³ (10/09/2022 00:08:07) 
-Minimo: 1.70 µg/m³ (08/09/2022 18:02:54) 
-Deviazione Standard: 17.75 µg/m³
-Moda: 16.26 µg/m³
+Media: 96.56 µg/m³
+Moda: 96.11 µg/m³
+Massimo: 270.80 µg/m³ (15/09/2022 00:08:00) 
+Minimo: 56.00 µg/m³ (12/09/2022 01:08:17) 
+Deviazione Standard: 22.80 µg/m³
+Moda: 96.56 µg/m³
 Numero di rilevazioni: 1994.00
