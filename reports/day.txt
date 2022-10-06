@@ -1,54 +1,54 @@
 (1/6) Dati di oggi
 ---Umidità---
-Media: 82.80 %
-Moda: 82.28 %
-Massimo: 93.68 % (05/10/2022 08:45:26) 
-Minimo: 68.49 % (05/10/2022 17:32:52) %
-Deviazione Standard: 7.42 %
-Moda: 82.80 %
+Media: 80.81 %
+Moda: 80.30 %
+Massimo: 94.84 % (06/10/2022 08:10:50) 
+Minimo: 62.11 % (06/10/2022 17:18:21) %
+Deviazione Standard: 10.96 %
+Moda: 80.81 %
 Numero di rilevazioni: 280.00
 (2/6) Dati di oggi
 ---PM10---
-Media: 43.66 µg/m³
-Moda: 43.21 µg/m³
-Massimo: 131.20 µg/m³ (05/10/2022 00:08:05) 
-Minimo: 29.80 µg/m³ (05/10/2022 05:34:34) µg/m³
-Deviazione Standard: 10.06 µg/m³
-Moda: 43.66 µg/m³
+Media: 43.44 µg/m³
+Moda: 42.98 µg/m³
+Massimo: 122.20 µg/m³ (06/10/2022 00:08:32) 
+Minimo: 25.20 µg/m³ (06/10/2022 21:39:33) µg/m³
+Deviazione Standard: 13.45 µg/m³
+Moda: 43.44 µg/m³
 Numero di rilevazioni: 279.00
 (3/6) Dati di oggi
 ---Fumo e vapori infiammabili---
-Media: 199.40 µg/m³
-Moda: 199.40 µg/m³
-Massimo: 235.00 µg/m³ (05/10/2022 12:01:22) 
-Minimo: 170.00 µg/m³ (05/10/2022 19:03:18) µg/m³
-Deviazione Standard: 19.13 µg/m³
-Moda: 199.40 µg/m³
+Media: 196.16 µg/m³
+Moda: 196.16 µg/m³
+Massimo: 233.00 µg/m³ (06/10/2022 09:06:07) 
+Minimo: 144.00 µg/m³ (06/10/2022 18:33:42) µg/m³
+Deviazione Standard: 30.89 µg/m³
+Moda: 196.16 µg/m³
 Numero di rilevazioni: 279.00
 (4/6) Dati di oggi
 ---Pressione---
-Media: 1008.70 hPa
-Moda: 1008.21 hPa
-Massimo: 1010.19 hPa (05/10/2022 22:49:18) 
-Minimo: 1007.80 hPa (05/10/2022 05:24:31) hPa
-Deviazione Standard: 0.74 hPa
-Moda: 1008.70 hPa
+Media: 1009.56 hPa
+Moda: 1009.08 hPa
+Massimo: 1011.23 hPa (06/10/2022 23:09:57) 
+Minimo: 1008.21 hPa (06/10/2022 16:08:01) hPa
+Deviazione Standard: 0.84 hPa
+Moda: 1009.56 hPa
 Numero di rilevazioni: 280.00
 (5/6) Dati di oggi
 ---PM2,5---
-Media: 48.80 µg/m³
-Moda: 48.35 µg/m³
-Massimo: 199.40 µg/m³ (05/10/2022 00:08:05) 
-Minimo: 32.50 µg/m³ (05/10/2022 05:34:34) µg/m³
-Deviazione Standard: 14.03 µg/m³
-Moda: 48.80 µg/m³
+Media: 48.45 µg/m³
+Moda: 47.98 µg/m³
+Massimo: 183.30 µg/m³ (06/10/2022 00:08:32) 
+Minimo: 27.30 µg/m³ (06/10/2022 21:39:33) µg/m³
+Deviazione Standard: 16.71 µg/m³
+Moda: 48.45 µg/m³
 Numero di rilevazioni: 279.00
 (6/6) Dati di oggi
 ---Temperatura---
-Media: 23.11 °C
-Moda: 22.65 °C
-Massimo: 25.69 °C (05/10/2022 16:12:30) 
-Minimo: 21.04 °C (05/10/2022 08:35:23) °C
-Deviazione Standard: 1.62 °C
-Moda: 23.11 °C
+Media: 23.12 °C
+Moda: 22.59 °C
+Massimo: 27.20 °C (06/10/2022 17:28:23) 
+Minimo: 19.36 °C (06/10/2022 08:15:52) °C
+Deviazione Standard: 2.37 °C
+Moda: 23.12 °C
 Numero di rilevazioni: 280.00
