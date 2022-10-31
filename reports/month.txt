@@ -1,54 +1,54 @@
 (1/6) Dati di questo mese
 ---Temperatura---
-Media: 28.17 °C
-Moda: 27.67 °C
-Massimo: 34.66 °C (29/08/2022 17:32:36) 
-Minimo: 21.40 °C (31/08/2022 07:37:15) 
-Deviazione Standard: 3.20 °C
-Moda: 28.17 °C
-Numero di rilevazioni: 2171.00
+Media: 20.91 °C
+Moda: 20.42 °C
+Massimo: 27.89 °C (03/10/2022 17:07:42) 
+Minimo: 14.82 °C (11/10/2022 07:30:07) 
+Deviazione Standard: 2.65 °C
+Moda: 20.91 °C
+Numero di rilevazioni: 8902.00
 (2/6) Dati di questo mese
 ---PM10---
-Media: 5.26 µg/m³
-Moda: 4.81 µg/m³
-Massimo: 114.70 µg/m³ (24/08/2022 09:17:46) 
-Minimo: 1.60 µg/m³ (24/08/2022 12:23:37) 
-Deviazione Standard: 5.52 µg/m³
-Moda: 5.26 µg/m³
-Numero di rilevazioni: 2034.00
+Media: 57.52 µg/m³
+Moda: 57.07 µg/m³
+Massimo: 144.10 µg/m³ (09/10/2022 00:07:54) 
+Minimo: 20.80 µg/m³ (03/10/2022 19:38:24) 
+Deviazione Standard: 17.04 µg/m³
+Moda: 57.52 µg/m³
+Numero di rilevazioni: 8871.00
 (3/6) Dati di questo mese
 ---Pressione---
-Media: 995.91 hPa
-Moda: 995.40 hPa
-Massimo: 1001.79 hPa (30/08/2022 11:46:08) 
-Minimo: 0.00 hPa (24/08/2022 09:12:35) 
-Deviazione Standard: 30.34 hPa
-Moda: 995.91 hPa
-Numero di rilevazioni: 2171.00
+Media: 1004.35 hPa
+Moda: 1003.85 hPa
+Massimo: 1012.53 hPa (17/10/2022 11:46:31) 
+Minimo: 996.50 hPa (01/10/2022 17:27:49) 
+Deviazione Standard: 3.80 hPa
+Moda: 1004.35 hPa
+Numero di rilevazioni: 8902.00
 (4/6) Dati di questo mese
----Fumo e vapori infiammabili---
-Media: 243.18 µg/m³
-Moda: 243.18 µg/m³
-Massimo: 528.00 µg/m³ (24/08/2022 09:17:46) 
-Minimo: 160.00 µg/m³ (27/08/2022 18:13:33) 
-Deviazione Standard: 35.06 µg/m³
-Moda: 243.18 µg/m³
-Numero di rilevazioni: 2034.00
-(5/6) Dati di questo mese
 ---Umidità---
-Media: 76.57 %
-Moda: 76.08 %
-Massimo: 128.25 % (30/08/2022 21:46:51) 
-Minimo: 42.84 % (25/08/2022 18:37:56) 
-Deviazione Standard: 19.53 %
-Moda: 76.57 %
-Numero di rilevazioni: 2171.00
+Media: 88.50 %
+Moda: 88.00 %
+Massimo: 125.42 % (01/10/2022 00:07:59) 
+Minimo: 46.11 % (03/10/2022 17:37:50) 
+Deviazione Standard: 11.60 %
+Moda: 88.50 %
+Numero di rilevazioni: 8902.00
+(5/6) Dati di questo mese
+---Fumo e vapori infiammabili---
+Media: 210.34 µg/m³
+Moda: 210.34 µg/m³
+Massimo: 272.00 µg/m³ (24/10/2022 08:40:30) 
+Minimo: 132.00 µg/m³ (07/10/2022 18:03:12) 
+Deviazione Standard: 32.89 µg/m³
+Moda: 210.34 µg/m³
+Numero di rilevazioni: 8871.00
 (6/6) Dati di questo mese
 ---PM2,5---
-Media: 6.06 µg/m³
-Moda: 5.62 µg/m³
-Massimo: 161.20 µg/m³ (24/08/2022 09:17:46) 
-Minimo: 1.70 µg/m³ (24/08/2022 13:54:02) 
-Deviazione Standard: 6.90 µg/m³
-Moda: 6.06 µg/m³
-Numero di rilevazioni: 2034.00
+Media: 66.48 µg/m³
+Moda: 66.03 µg/m³
+Massimo: 228.50 µg/m³ (25/10/2022 00:07:53) 
+Minimo: 22.40 µg/m³ (03/10/2022 19:38:24) 
+Deviazione Standard: 23.34 µg/m³
+Moda: 66.48 µg/m³
+Numero di rilevazioni: 8871.00
