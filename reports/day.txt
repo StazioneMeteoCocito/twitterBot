@@ -1,54 +1,54 @@
 (1/6) Dati di oggi
 ---PM10---
-Media: 107.36 µg/m³
-Moda: 106.90 µg/m³
-Massimo: 143.90 µg/m³ (22/11/2022 00:08:17) 
-Minimo: 97.40 µg/m³ (22/11/2022 18:58:29) µg/m³
-Deviazione Standard: 8.02 µg/m³
-Moda: 107.36 µg/m³
+Media: 101.10 µg/m³
+Moda: 100.64 µg/m³
+Massimo: 155.00 µg/m³ (23/11/2022 00:08:04) 
+Minimo: 90.80 µg/m³ (23/11/2022 16:57:47) µg/m³
+Deviazione Standard: 7.17 µg/m³
+Moda: 101.10 µg/m³
 Numero di rilevazioni: 277.00
 (2/6) Dati di oggi
 ---Temperatura---
-Media: 11.00 °C
-Moda: 10.56 °C
-Massimo: 15.47 °C (22/11/2022 15:17:27) 
-Minimo: 8.84 °C (22/11/2022 23:14:38) °C
-Deviazione Standard: 2.04 °C
-Moda: 11.00 °C
+Media: 9.36 °C
+Moda: 8.82 °C
+Massimo: 14.73 °C (23/11/2022 15:57:29) 
+Minimo: 5.58 °C (23/11/2022 07:45:10) °C
+Deviazione Standard: 2.81 °C
+Moda: 9.36 °C
 Numero di rilevazioni: 278.00
 (3/6) Dati di oggi
 ---Umidità---
-Media: 99.98 %
-Moda: 99.46 %
-Massimo: 118.23 % (22/11/2022 07:30:18) 
-Minimo: 76.10 % (22/11/2022 00:13:17) %
-Deviazione Standard: 13.29 %
-Moda: 99.98 %
+Media: 71.41 %
+Moda: 70.92 %
+Massimo: 84.91 % (23/11/2022 01:33:28) 
+Minimo: 49.79 % (23/11/2022 14:27:04) %
+Deviazione Standard: 9.76 %
+Moda: 71.41 %
 Numero di rilevazioni: 278.00
 (4/6) Dati di oggi
 ---Fumo e vapori infiammabili---
-Media: 183.16 µg/m³
-Moda: 183.16 µg/m³
-Massimo: 198.00 µg/m³ (22/11/2022 00:28:23) 
-Minimo: 167.00 µg/m³ (22/11/2022 15:17:28) µg/m³
-Deviazione Standard: 8.07 µg/m³
-Moda: 183.16 µg/m³
+Media: 176.08 µg/m³
+Moda: 176.08 µg/m³
+Massimo: 191.00 µg/m³ (23/11/2022 23:14:30) 
+Minimo: 159.00 µg/m³ (23/11/2022 15:47:27) µg/m³
+Deviazione Standard: 7.28 µg/m³
+Moda: 176.08 µg/m³
 Numero di rilevazioni: 277.00
 (5/6) Dati di oggi
 ---Pressione---
-Media: 979.46 hPa
-Moda: 978.98 hPa
-Massimo: 983.94 hPa (22/11/2022 00:03:03) 
-Minimo: 976.28 hPa (22/11/2022 14:02:06) hPa
-Deviazione Standard: 1.92 hPa
-Moda: 979.46 hPa
+Media: 986.02 hPa
+Moda: 985.53 hPa
+Massimo: 991.35 hPa (23/11/2022 22:49:22) 
+Minimo: 982.60 hPa (23/11/2022 01:18:24) hPa
+Deviazione Standard: 2.31 hPa
+Moda: 986.02 hPa
 Numero di rilevazioni: 278.00
 (6/6) Dati di oggi
 ---PM2,5---
-Media: 153.78 µg/m³
-Moda: 153.32 µg/m³
-Massimo: 226.70 µg/m³ (22/11/2022 00:08:17) 
-Minimo: 137.10 µg/m³ (22/11/2022 18:58:29) µg/m³
-Deviazione Standard: 13.11 µg/m³
-Moda: 153.78 µg/m³
+Media: 140.88 µg/m³
+Moda: 140.44 µg/m³
+Massimo: 216.60 µg/m³ (23/11/2022 00:08:04) 
+Minimo: 121.50 µg/m³ (23/11/2022 21:59:10) µg/m³
+Deviazione Standard: 12.75 µg/m³
+Moda: 140.88 µg/m³
 Numero di rilevazioni: 277.00
