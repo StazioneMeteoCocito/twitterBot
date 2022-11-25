@@ -1,9 +1,9 @@
 Dati Meteorologici:
-Ultimo aggiornamento: 25/11/2022 13:26:46
+Ultimo aggiornamento: 25/11/2022 14:06:57
 --------------
-Temperatura: 13.43 °C
-Umidità: 67.25 %
-Pressione: 1000.83 hPa
-PM10: 115.00 µg/m³
-PM2,5: 167.80 µg/m³
-Fumo e vapori infiammabili: 209.00 µg/m³
+Temperatura: 13.87 °C
+Umidità: 66.20 %
+Pressione: 1000.64 hPa
+PM10: 115.80 µg/m³
+PM2,5: 169.30 µg/m³
+Fumo e vapori infiammabili: 205.00 µg/m³
