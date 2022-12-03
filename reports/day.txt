@@ -1,54 +1,54 @@
 (1/6) Dati di oggi
 ---Fumo e vapori infiammabili---
-Media: 223.84 µg/m³
-Moda: 223.84 µg/m³
-Massimo: 240.00 µg/m³ (02/12/2022 05:34:26) 
-Minimo: 203.00 µg/m³ (02/12/2022 16:07:23) µg/m³
-Deviazione Standard: 12.17 µg/m³
-Moda: 223.84 µg/m³
-Numero di rilevazioni: 277.00
+Media: 218.81 µg/m³
+Moda: 218.81 µg/m³
+Massimo: 222.00 µg/m³ (03/12/2022 02:18:44) 
+Minimo: 216.00 µg/m³ (03/12/2022 04:54:27) µg/m³
+Deviazione Standard: 1.49 µg/m³
+Moda: 218.81 µg/m³
+Numero di rilevazioni: 79.00
 (2/6) Dati di oggi
 ---PM2,5---
-Media: 126.76 µg/m³
-Moda: 126.34 µg/m³
-Massimo: 191.80 µg/m³ (02/12/2022 00:07:56) 
-Minimo: 113.20 µg/m³ (02/12/2022 08:40:17) µg/m³
-Deviazione Standard: 8.34 µg/m³
-Moda: 126.76 µg/m³
-Numero di rilevazioni: 277.00
+Media: 118.35 µg/m³
+Moda: 117.89 µg/m³
+Massimo: 193.90 µg/m³ (03/12/2022 00:08:08) 
+Minimo: 100.90 µg/m³ (03/12/2022 06:39:56) µg/m³
+Deviazione Standard: 11.58 µg/m³
+Moda: 118.35 µg/m³
+Numero di rilevazioni: 79.00
 (3/6) Dati di oggi
 ---PM10---
-Media: 96.43 µg/m³
-Moda: 95.98 µg/m³
-Massimo: 144.30 µg/m³ (02/12/2022 00:07:56) 
-Minimo: 89.20 µg/m³ (02/12/2022 09:00:24) µg/m³
-Deviazione Standard: 4.96 µg/m³
-Moda: 96.43 µg/m³
-Numero di rilevazioni: 277.00
+Media: 91.26 µg/m³
+Moda: 90.80 µg/m³
+Massimo: 137.90 µg/m³ (03/12/2022 00:08:08) 
+Minimo: 81.40 µg/m³ (03/12/2022 06:39:56) µg/m³
+Deviazione Standard: 6.37 µg/m³
+Moda: 91.26 µg/m³
+Numero di rilevazioni: 79.00
 (4/6) Dati di oggi
 ---Umidità---
-Media: 83.27 %
-Moda: 82.80 %
-Massimo: 88.73 % (02/12/2022 04:29:07) 
-Minimo: 71.49 % (02/12/2022 14:41:58) %
-Deviazione Standard: 4.98 %
-Moda: 83.27 %
+Media: 112.44 %
+Moda: 111.92 %
+Massimo: 122.80 % (03/12/2022 09:25:07) 
+Minimo: 85.82 % (03/12/2022 00:48:18) %
+Deviazione Standard: 12.15 %
+Moda: 112.44 %
 Numero di rilevazioni: 278.00
 (5/6) Dati di oggi
 ---Pressione---
-Media: 1000.64 hPa
-Moda: 1000.12 hPa
-Massimo: 1001.49 hPa (02/12/2022 22:29:08) 
-Minimo: 999.16 hPa (02/12/2022 14:36:57) hPa
-Deviazione Standard: 0.59 hPa
-Moda: 1000.64 hPa
+Media: 999.95 hPa
+Moda: 999.52 hPa
+Massimo: 1001.50 hPa (03/12/2022 00:08:07) 
+Minimo: 998.77 hPa (03/12/2022 23:11:12) hPa
+Deviazione Standard: 0.78 hPa
+Moda: 999.95 hPa
 Numero di rilevazioni: 278.00
 (6/6) Dati di oggi
 ---Temperatura---
-Media: 9.55 °C
-Moda: 9.01 °C
-Massimo: 12.83 °C (02/12/2022 14:47:00) 
-Minimo: 7.44 °C (02/12/2022 05:19:21) °C
-Deviazione Standard: 1.64 °C
-Moda: 9.55 °C
+Media: 8.83 °C
+Moda: 8.32 °C
+Massimo: 10.31 °C (03/12/2022 01:28:29) 
+Minimo: 7.46 °C (03/12/2022 11:20:20) °C
+Deviazione Standard: 0.74 °C
+Moda: 8.83 °C
 Numero di rilevazioni: 278.00
