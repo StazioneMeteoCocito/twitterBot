@@ -1,9 +1,9 @@
 Dati Meteorologici:
-Ultimo aggiornamento: 09/12/2022 10:06:08
+Ultimo aggiornamento: 09/12/2022 11:06:24
 --------------
-Temperatura: 6.37 °C
-Umidità: 104.45 %
-Pressione: 988.31 hPa
-PM10: 93.50 µg/m³
-PM2,5: 120.20 µg/m³
-Fumo e vapori infiammabili: 204.00 µg/m³
+Temperatura: 6.43 °C
+Umidità: 104.03 %
+Pressione: 987.91 hPa
+PM10: 88.70 µg/m³
+PM2,5: 108.80 µg/m³
+Fumo e vapori infiammabili: 199.00 µg/m³
