@@ -1,11 +1,11 @@
 System report
-Tue 07 Mar 2023 12:10:01 AM CET
-CPU Temperature: 30.02 °C
-Memory Usage: 176/922MB (19.09%)
+Wed 08 Mar 2023 12:10:01 AM CET
+CPU Temperature: 29.48 °C
+Memory Usage: 169/922MB (18.33%)
 Disk Usage: 9/14GB (72%)
-CPU Load: 86.00 %
-128M	storedData
-StazioneMeteo: 1 windows (created Tue Mar  7 00:02:03 2023)
- 00:10:02 up 7 min,  3 users,  load average: 0.86, 1.36, 0.91
-pi         610  0.4  3.0  48996 28484 pts/1    S+   00:02   0:01 python3 /home/pi/Desktop/station/main.py
+CPU Load: 80.00 %
+100M	storedData
+StazioneMeteo: 1 windows (created Wed Mar  8 00:02:15 2023)
+ 00:10:02 up 7 min,  3 users,  load average: 0.80, 1.15, 0.75
+pi         598  0.4  2.9  48996 28100 pts/1    S+   00:02   0:01 python3 /home/pi/Desktop/station/main.py
 
