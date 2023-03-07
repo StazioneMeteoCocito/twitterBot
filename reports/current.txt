@@ -1,9 +1,9 @@
 Dati Meteorologici:
-Ultimo aggiornamento: 07/03/2023 06:09:49
+Ultimo aggiornamento: 07/03/2023 07:15:12
 --------------
-Temperatura: 8.61 °C
-Umidità: 86.30 %
-Pressione: 986.39 hPa
+Temperatura: 8.62 °C
+Umidità: 86.38 %
+Pressione: 986.61 hPa
 PM10: 106.60 µg/m³
-PM2,5: 149.50 µg/m³
-Fumo e vapori infiammabili: 120.00 µg/m³
+PM2,5: 149.60 µg/m³
+Fumo e vapori infiammabili: 122.00 µg/m³
