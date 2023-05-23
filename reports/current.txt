@@ -1,9 +1,9 @@
 Dati Meteorologici:
-Ultimo aggiornamento: 23/05/2023 08:05:42
+Ultimo aggiornamento: 23/05/2023 09:05:59
 --------------
-Temperatura: 18.63 °C
-Umidità: 94.79 %
-Pressione: 996.89 hPa
-PM10: 108.10 µg/m³
-PM2,5: 155.50 µg/m³
-Fumo e vapori infiammabili: 192.00 µg/m³
+Temperatura: 19.95 °C
+Umidità: 92.34 %
+Pressione: 996.84 hPa
+PM10: 109.10 µg/m³
+PM2,5: 158.30 µg/m³
+Fumo e vapori infiammabili: 195.00 µg/m³
