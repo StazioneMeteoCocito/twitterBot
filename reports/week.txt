@@ -1,54 +1,54 @@
 (1/6) Dati di questa settimana
----Pressione---
-Media: 997.99 hPa
-Moda: 997.46 hPa
-Massimo: 1003.29 hPa (25/05/2023 21:54:17) 
-Minimo: 992.15 hPa (24/05/2023 16:02:45) 
-Deviazione Standard: 2.81 hPa
-Moda: 997.99 hPa
-Numero di rilevazioni: 1995.00
-(2/6) Dati di questa settimana
----PM10---
-Media: 113.97 µg/m³
-Moda: 113.53 µg/m³
-Massimo: 168.70 µg/m³ (27/05/2023 00:08:31) 
-Minimo: 96.40 µg/m³ (25/05/2023 00:53:29) 
-Deviazione Standard: 6.87 µg/m³
-Moda: 113.97 µg/m³
-Numero di rilevazioni: 1988.00
-(3/6) Dati di questa settimana
 ---Temperatura---
 Media: 22.78 °C
-Moda: 22.28 °C
-Massimo: 29.45 °C (24/05/2023 16:32:53) 
-Minimo: 15.80 °C (22/05/2023 06:20:26) 
-Deviazione Standard: 3.67 °C
+Moda: 22.29 °C
+Massimo: 29.30 °C (30/05/2023 17:28:32) 
+Minimo: 17.96 °C (31/05/2023 01:28:46) 
+Deviazione Standard: 2.97 °C
 Moda: 22.78 °C
-Numero di rilevazioni: 1995.00
+Numero di rilevazioni: 1996.00
+(2/6) Dati di questa settimana
+---PM10---
+Media: 119.30 µg/m³
+Moda: 118.85 µg/m³
+Massimo: 212.30 µg/m³ (01/06/2023 09:31:02) 
+Minimo: 102.40 µg/m³ (02/06/2023 08:31:01) 
+Deviazione Standard: 11.34 µg/m³
+Moda: 119.30 µg/m³
+Numero di rilevazioni: 1658.00
+(3/6) Dati di questa settimana
+---Pressione---
+Media: 997.93 hPa
+Moda: 997.42 hPa
+Massimo: 1001.70 hPa (31/05/2023 10:09:21) 
+Minimo: 993.18 hPa (02/06/2023 18:48:50) 
+Deviazione Standard: 1.89 hPa
+Moda: 997.93 hPa
+Numero di rilevazioni: 1996.00
 (4/6) Dati di questa settimana
 ---Umidità---
-Media: 82.51 %
-Moda: 82.00 %
-Massimo: 122.47 % (25/05/2023 18:48:26) 
-Minimo: 46.05 % (26/05/2023 17:38:35) 
-Deviazione Standard: 17.53 %
-Moda: 82.51 %
-Numero di rilevazioni: 1995.00
+Media: 101.60 %
+Moda: 101.14 %
+Massimo: 129.11 % (31/05/2023 03:28:54) 
+Minimo: 52.92 % (30/05/2023 16:13:11) 
+Deviazione Standard: 20.66 %
+Moda: 101.60 %
+Numero di rilevazioni: 1996.00
 (5/6) Dati di questa settimana
----PM2,5---
-Media: 173.75 µg/m³
-Moda: 173.30 µg/m³
-Massimo: 305.00 µg/m³ (27/05/2023 00:08:31) 
-Minimo: 130.50 µg/m³ (23/05/2023 02:29:09) 
-Deviazione Standard: 16.90 µg/m³
-Moda: 173.75 µg/m³
-Numero di rilevazioni: 1988.00
-(6/6) Dati di questa settimana
 ---Fumo e vapori infiammabili---
-Media: 145.62 µg/m³
-Moda: 145.62 µg/m³
-Massimo: 198.00 µg/m³ (23/05/2023 09:21:04) 
-Minimo: 111.00 µg/m³ (28/05/2023 17:18:01) 
-Deviazione Standard: 21.92 µg/m³
-Moda: 145.62 µg/m³
-Numero di rilevazioni: 1988.00
+Media: 136.03 µg/m³
+Moda: 136.03 µg/m³
+Massimo: 179.00 µg/m³ (01/06/2023 10:26:17) 
+Minimo: 109.00 µg/m³ (30/05/2023 19:44:10) 
+Deviazione Standard: 15.45 µg/m³
+Moda: 136.03 µg/m³
+Numero di rilevazioni: 1658.00
+(6/6) Dati di questa settimana
+---PM2,5---
+Media: 187.36 µg/m³
+Moda: 186.91 µg/m³
+Massimo: 411.30 µg/m³ (01/06/2023 09:31:02) 
+Minimo: 145.50 µg/m³ (02/06/2023 08:31:01) 
+Deviazione Standard: 30.20 µg/m³
+Moda: 187.36 µg/m³
+Numero di rilevazioni: 1658.00
