@@ -1,54 +1,54 @@
 (1/6) Dati di oggi
 ---Fumo e vapori infiammabili---
-Media: 140.24 µg/m³
-Moda: 140.24 µg/m³
-Massimo: 167.00 µg/m³ (17/06/2023 09:16:10) 
-Minimo: 114.00 µg/m³ (17/06/2023 16:38:11) µg/m³
-Deviazione Standard: 17.66 µg/m³
-Moda: 140.24 µg/m³
+Media: 167.07 µg/m³
+Moda: 167.07 µg/m³
+Massimo: 198.00 µg/m³ (19/06/2023 08:45:36) 
+Minimo: 135.00 µg/m³ (19/06/2023 23:14:37) µg/m³
+Deviazione Standard: 15.58 µg/m³
+Moda: 167.07 µg/m³
 Numero di rilevazioni: 277.00
 (2/6) Dati di oggi
 ---Pressione---
-Media: 996.62 hPa
-Moda: 996.16 hPa
-Massimo: 998.42 hPa (17/06/2023 09:01:04) 
-Minimo: 994.83 hPa (17/06/2023 18:38:43) hPa
-Deviazione Standard: 1.07 hPa
-Moda: 996.62 hPa
-Numero di rilevazioni: 277.00
+Media: 998.57 hPa
+Moda: 998.06 hPa
+Massimo: 999.41 hPa (19/06/2023 09:50:56) 
+Minimo: 996.92 hPa (19/06/2023 19:53:41) hPa
+Deviazione Standard: 0.56 hPa
+Moda: 998.57 hPa
+Numero di rilevazioni: 278.00
 (3/6) Dati di oggi
 ---Umidità---
-Media: 72.52 %
-Moda: 72.05 %
-Massimo: 89.80 % (17/06/2023 07:45:44) 
-Minimo: 53.66 % (17/06/2023 16:38:10) %
-Deviazione Standard: 11.09 %
-Moda: 72.52 %
-Numero di rilevazioni: 277.00
+Media: 83.48 %
+Moda: 82.95 %
+Massimo: 104.91 % (19/06/2023 07:00:06) 
+Minimo: 61.51 % (19/06/2023 23:09:35) %
+Deviazione Standard: 13.46 %
+Moda: 83.48 %
+Numero di rilevazioni: 278.00
 (4/6) Dati di oggi
 ---PM10---
-Media: 129.60 µg/m³
-Moda: 129.16 µg/m³
-Massimo: 211.60 µg/m³ (17/06/2023 23:04:57) 
-Minimo: 115.20 µg/m³ (17/06/2023 06:50:30) µg/m³
-Deviazione Standard: 11.72 µg/m³
-Moda: 129.60 µg/m³
+Media: 163.26 µg/m³
+Moda: 162.82 µg/m³
+Massimo: 224.10 µg/m³ (19/06/2023 20:59:00) 
+Minimo: 131.20 µg/m³ (19/06/2023 00:33:21) µg/m³
+Deviazione Standard: 19.85 µg/m³
+Moda: 163.26 µg/m³
 Numero di rilevazioni: 277.00
 (5/6) Dati di oggi
 ---PM2,5---
-Media: 216.81 µg/m³
-Moda: 216.36 µg/m³
-Massimo: 461.10 µg/m³ (17/06/2023 23:04:57) 
-Minimo: 178.50 µg/m³ (17/06/2023 06:50:30) µg/m³
-Deviazione Standard: 33.80 µg/m³
-Moda: 216.81 µg/m³
+Media: 321.99 µg/m³
+Moda: 321.53 µg/m³
+Massimo: 486.80 µg/m³ (19/06/2023 20:59:00) 
+Minimo: 222.70 µg/m³ (19/06/2023 00:33:21) µg/m³
+Deviazione Standard: 58.77 µg/m³
+Moda: 321.99 µg/m³
 Numero di rilevazioni: 277.00
 (6/6) Dati di oggi
 ---Temperatura---
-Media: 26.37 °C
-Moda: 25.90 °C
-Massimo: 31.71 °C (17/06/2023 18:03:34) 
-Minimo: 21.10 °C (17/06/2023 06:30:23) °C
-Deviazione Standard: 3.52 °C
-Moda: 26.37 °C
-Numero di rilevazioni: 277.00
+Media: 27.70 °C
+Moda: 27.18 °C
+Massimo: 31.79 °C (19/06/2023 16:32:46) 
+Minimo: 24.54 °C (19/06/2023 06:45:02) °C
+Deviazione Standard: 2.33 °C
+Moda: 27.70 °C
+Numero di rilevazioni: 278.00
